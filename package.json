@@ -10,7 +10,7 @@
     "start:dist": "npm run dist && --env-file=.env node/serves.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "bacate",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
